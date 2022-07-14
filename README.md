@@ -2,6 +2,6 @@
 
 ionic framework tutorials using cordova. 
 
-http://sourcefreeze.com/category/ionic-framework/
+https://sourcefreeze.com/category/ionic-framework/
 
-http://sourcefreeze.com
+https://sourcefreeze.com
